@@ -1,5 +1,6 @@
 {
     "name": "template-tags",
+    "description": "ES6 template literal tags that allow extensions to recognise the language",
     "version": "1.0.0",
     "author": "marzeq",
     "main": "dist/index.js",
