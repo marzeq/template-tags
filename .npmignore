@@ -3,3 +3,5 @@ node_modules/
 .prettierrc
 yarn.lock
 package-lock.json
+jest.config.js
+*.test.ts
